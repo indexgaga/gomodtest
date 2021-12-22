@@ -1,3 +1,3 @@
-module gitee.com/zkwgaga/gomodtest
+module github.com/indexgaga/gomodtest
 
 go 1.17
